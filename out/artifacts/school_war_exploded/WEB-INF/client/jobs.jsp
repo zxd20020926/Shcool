@@ -65,6 +65,7 @@
         </div>
       </div>
     </div>
+
     <div class="col-sm-10 col-md-3 ">
       <div class="list-group my-5">
         <div class="list-group-item list-group-item-action active text-center h5">招聘信息推荐</div>
