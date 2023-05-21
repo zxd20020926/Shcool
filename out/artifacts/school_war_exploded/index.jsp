@@ -6,6 +6,7 @@
   </head>
   <body>
   <%
+
     response.sendRedirect(request.getContextPath()+"/index");
   %>
   </body>
