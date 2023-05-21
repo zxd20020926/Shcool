@@ -1,8 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AnalysisUIOptions">
-    <option name="GROUP_BY_SEVERITY" value="true" />
-  </component>
   <component name="ArtifactsWorkspaceSettings">
     <artifacts-to-build>
       <artifact name="school:war exploded" />
@@ -12,9 +9,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a87c3bc9-fcce-4351-a3ca-bd8c2e86c0e9" name="Default Changelist" comment="Default Changelist">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="a87c3bc9-fcce-4351-a3ca-bd8c2e86c0e9" name="Default Changelist" comment="Default Changelist" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -55,7 +50,7 @@
     <option name="selectedUrlAndAccountId">
       <UrlAndAccount>
         <option name="accountId" value="a45d0a5d-5ed9-4694-9fc9-a3e4cfc67279" />
-        <option name="url" value="https://github.com/UItiCh/Shcool.git" />
+        <option name="url" value="https://github.com/UItiCh/school.git" />
       </UrlAndAccount>
     </option>
   </component>
@@ -292,8 +287,7 @@
       <workItem from="1684661637213" duration="182000" />
       <workItem from="1684661836182" duration="441000" />
       <workItem from="1684662285667" duration="495000" />
-      <workItem from="1684663460087" duration="718000" />
-      <workItem from="1684665679733" duration="17000" />
+      <workItem from="1684663460087" duration="334000" />
     </task>
     <task id="LOCAL-00001" summary="Default Changelist">
       <created>1684663603560</created>
@@ -302,21 +296,7 @@
       <option name="project" value="LOCAL" />
       <updated>1684663603560</updated>
     </task>
-    <task id="LOCAL-00002" summary="Default Changelist">
-      <created>1684664103810</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1684664103810</updated>
-    </task>
-    <task id="LOCAL-00003" summary="Default Changelist">
-      <created>1684664139998</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1684664139998</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -336,31 +316,6 @@
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
-        <entry key="8ba8818c-0100-4997-854f-587d34bcbfb8">
-          <value>
-            <State>
-              <option name="FILTERS">
-                <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="HEAD" />
-                      </list>
-                    </value>
-                  </entry>
-                  <entry key="roots">
-                    <value>
-                      <list>
-                        <option value="$PROJECT_DIR$" />
-                      </list>
-                    </value>
-                  </entry>
-                </map>
-              </option>
-              <option name="SHOW_ONLY_AFFECTED_CHANGES" value="true" />
-            </State>
-          </value>
-        </entry>
         <entry key="MAIN">
           <value>
             <State />
